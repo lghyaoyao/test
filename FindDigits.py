@@ -7,5 +7,5 @@ for i in range(len(f)):
     if s1.isdigit():
         s2=s2+s1
 print(s2)
-
+file.close()
 
